@@ -1,0 +1,1 @@
+<li> <a <?php echo e($attributes); ?>><?php echo e($slot); ?></a></li><?php /**PATH /Users/nooralamislammanik/Herd/class 09/resources/views/components/link.blade.php ENDPATH**/ ?>
